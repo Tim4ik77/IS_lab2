@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Билет на вечерний концерт",
+    "coordinates": { "x": 10.5, "y": 20 },
+    "person": {
+      "eyeColor": "GREEN", "hairColor": "BLUE", "weight": 70,
+      "location": { "x": 1.5, "y": 2, "z": 3.5, "name": "Санкт-Петербург" }
+    },
+    "event": { "name": "Вечерний концерт", "ticketsCount": 100, "eventType": "CONCERT" },
+    "price": 1500, "type": "USUAL", "discount": 10, "number": 1,
+    "venue": { "name": "Концертный лофт", "capacity": 200, "type": "LOFT" }
+  }
+]
